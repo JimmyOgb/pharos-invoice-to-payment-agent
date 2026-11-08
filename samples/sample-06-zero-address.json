@@ -1,0 +1,10 @@
+{
+  "invoiceNumber": "INV-BURN-000",
+  "payee": {
+    "name": "Corrupted Payee Record",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  "amount": "10.00",
+  "currencyOrToken": "PROS",
+  "reference": "INV-BURN-000"
+}

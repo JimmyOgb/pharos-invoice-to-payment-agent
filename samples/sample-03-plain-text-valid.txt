@@ -1,0 +1,20 @@
+========================================================
+                 INVOICE FOR SERVICES
+========================================================
+
+Vendor: Apex Security Audits LLC
+Date: 2026-11-08
+Due Date: 2026-11-15
+Invoice #: REF-SEC-4921
+
+Client: Pharos Ecosystem Fund
+Service Description: Smart Contract Threat Model & GenVM Formal Verification
+
+Payment Details:
+Payee Wallet Address: 0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC
+Total Due: 50.00 PROS
+Settlement Token: PROS
+Memo: REF-SEC-4921
+
+Please transfer exact amount before due date.
+========================================================

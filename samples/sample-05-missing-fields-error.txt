@@ -1,0 +1,9 @@
+PAYMENT REQUEST MEMO
+--------------------
+Vendor: Unknown Freelancer
+Description: UI Mockup Design
+Amount: 15.00 PROS
+
+Notice: Please send the payment directly to our team.
+(Notice: Wallet address and invoice reference number were not included!)
+--------------------

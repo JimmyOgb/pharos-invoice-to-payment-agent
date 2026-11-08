@@ -1,0 +1,13 @@
+{
+  "invoiceId": "INV-BASE-88310",
+  "issueDate": "2026-11-05",
+  "paymentDueDate": "2026-11-19",
+  "vendor": {
+    "name": "Base Cloud Solutions Inc",
+    "walletAddress": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045"
+  },
+  "totalAmount": "500.00",
+  "tokenSymbol": "USDC",
+  "reference": "INV-BASE-88310",
+  "description": "Enterprise API Gateway and RPC Relayer"
+}

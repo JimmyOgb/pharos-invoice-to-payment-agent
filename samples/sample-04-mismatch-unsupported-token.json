@@ -1,0 +1,10 @@
+{
+  "invoiceNumber": "INV-MISMATCH-9901",
+  "payee": {
+    "name": "Global Cross-Border Logistics",
+    "address": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+  },
+  "amount": "250.00",
+  "currency": "DOGE",
+  "reference": "INV-MISMATCH-9901"
+}

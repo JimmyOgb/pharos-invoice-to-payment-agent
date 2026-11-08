@@ -1,0 +1,16 @@
+{
+  "invoiceNumber": "INV-PHAROS-2026-001",
+  "invoiceDate": "2026-11-08",
+  "dueDate": "2026-11-22",
+  "payee": {
+    "name": "Pharos Core Infrastructure Labs",
+    "address": "0x71C840A6B296d66e854898166D132c25C992fD49"
+  },
+  "recipient": {
+    "name": "Pharos Community DAO"
+  },
+  "amount": "125.50",
+  "currencyOrToken": "PROS",
+  "memo": "Q4 RPC Node High-Availability Hosting",
+  "status": "ISSUED"
+}
